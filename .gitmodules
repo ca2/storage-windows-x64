@@ -7,3 +7,9 @@
 [submodule "cover"]
 	path = cover
 	url = ../storage-windows-x64-stage
+[submodule "cube_basis"]
+	path = cube_basis
+	url = ../storage-windows-x64-cube_basis
+[submodule "cube_stage"]
+	path = cube_stage
+	url = ../storage-windows-x64-cube_stage
