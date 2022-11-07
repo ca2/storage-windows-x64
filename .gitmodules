@@ -1,12 +1,12 @@
-[submodule "basis"]
-	path = basis
-	url = ../storage-windows-x64-basis
-[submodule "stage"]
-	path = stage
-	url = ../storage-windows-x64-stage
-[submodule "cube_basis"]
-	path = cube_basis
-	url = ../storage-windows-x64-cube_basis
-[submodule "cube_stage"]
-	path = cube_stage
-	url = ../storage-windows-x64-cube_stage
+[submodule "debug"]
+	path = debug
+	url = ../storage-windows-x64-debug
+[submodule "release"]
+	path = release
+	url = ../storage-windows-x64-release
+[submodule "static_debug"]
+	path = static_debug
+	url = ../storage-windows-x64-static_debug
+[submodule "static_release"]
+	path = static_release
+	url = ../storage-windows-x64-static_release
