@@ -1,12 +1,12 @@
-[submodule "debug"]
-	path = debug
-	url = ../storage-windows-x64-debug
-[submodule "release"]
-	path = release
-	url = ../storage-windows-x64-release
-[submodule "static_debug"]
-	path = static_debug
-	url = ../storage-windows-x64-static_debug
-[submodule "static_release"]
-	path = static_release
-	url = ../storage-windows-x64-static_release
+[submodule "Debug"]
+	path = Debug
+	url = ../storage-windows-x64-Debug
+[submodule "Release"]
+	path = Release
+	url = ../storage-windows-x64-Release
+[submodule "StaticDebug"]
+	path = StaticDebug
+	url = ../storage-windows-x64-StaticDebug
+[submodule "StaticRelease"]
+	path = StaticRelease
+	url = ../storage-windows-x64-StaticRelease
